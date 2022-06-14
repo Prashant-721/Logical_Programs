@@ -15,7 +15,6 @@ For i = 1 To len(str) Step 1
 	End If
 	
 	str = replace (str,a," ")
-	'msgbox str
 	count = 0
 Next
 
